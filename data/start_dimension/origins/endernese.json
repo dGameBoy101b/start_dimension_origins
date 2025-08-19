@@ -1,0 +1,10 @@
+{
+	"name": "Endernese",
+	"description": "Spawns you on the outer islands of The End.",
+	"icon": "minecraft:end_stone",
+	"order": 2,
+	"powers":
+	[
+		"start_dimension:outer_end_spawn"
+	]
+}

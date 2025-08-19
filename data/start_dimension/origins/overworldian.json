@@ -1,0 +1,10 @@
+{
+	"name": "Overworldian",
+	"description": "Spawns you in the Overworld like normal.",
+	"icon": "minecraft:grass_block",
+	"order": 0,
+	"powers": 
+	[
+		"start_dimension:overworld_spawn"
+	]
+}

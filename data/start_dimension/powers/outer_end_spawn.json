@@ -1,0 +1,8 @@
+{
+	"name": "Outer End Spawn",
+	"description": "Your natural spawn will be in the outer islands of The End.",
+	"type": "origins:modify_player_spawn",
+	"dimension": "minecraft:the_end",
+	"spawn_strategy": "center",
+	"biome": "minecraft:end_highlands"
+}

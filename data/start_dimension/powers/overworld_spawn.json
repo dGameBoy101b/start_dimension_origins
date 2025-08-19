@@ -1,0 +1,6 @@
+{
+	"name": "Overworld Inhabitant",
+	"description": "Your natural spawn will be in the Overworld.",
+	"type": "origins:modify_player_spawn",
+	"dimension": "minecraft:overworld"
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Start Dimension",
+	"allow_random": true,
+	"origins":
+	[
+		"start_dimension:overworldian",
+		"start_dimension:netherborn",
+		"start_dimension:endernese"
+	]
+}

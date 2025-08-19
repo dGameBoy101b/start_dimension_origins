@@ -1,0 +1,7 @@
+{
+	"pack":
+	{
+		"description": "Adds a layer to origins for starting dimension. Includes origins for each vanilla dimension: Overworld, Nether, and End",
+		"pack_format": 6
+	}
+}

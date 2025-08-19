@@ -1,0 +1,10 @@
+{
+	"name": "Netherborn",
+	"description": "Spawns you in the Nether.",
+	"icon": "minecraft:netherrack",
+	"order": 1,
+	"powers":
+	[
+		"origins:nether_spawn"
+	]
+}
